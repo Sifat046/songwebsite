@@ -1,0 +1,31 @@
+body{
+
+}
+#LO{
+    border: 3px double rgb(156, 156, 235);
+    border-radius: 5%;
+    padding: 20px;
+    height: auto;
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    background-color: black;
+    color: aqua;
+}
+#yo{
+    border: 3px double rgb(156, 156, 235);
+    border-radius: 5%;
+    padding: 20px;
+    height: auto;
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    background-color: black;
+    color: rgb(255, 251, 3);
+}
+.audio{
+    border: 20px;
+}
+.img{
+    height: 100px;
+}
